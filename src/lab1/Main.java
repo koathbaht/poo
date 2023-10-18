@@ -11,7 +11,7 @@ public class Main {
     }
 
     private static void ex2() {
-        System.out.println("Hello Dan!");
+        System.out.println("Hello Dan 2!");
     }
 
     private static void ex3() {
